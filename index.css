@@ -1,21 +1,25 @@
 @charset "UTF-8"
 
 
-
+#placeholder{
+    color: rgb(0,100,0);
+}
 #Home{
-    color: rgb(220,200,170)
+    color: rgb(220,200,170);
+    width: 100%;
+    height: 700px;
 }
 
 #second{
-    color: rgb(220,200,170)
+    color: rgb(220,200,170);
 }
 
 #third{
-    color: rgb(220,200,170)
+    color: rgb(220,200,170);
 }
 
 #fourth{
-    color: rgb(220,200,170)
+    color: rgb(220,200,170);
 }
 
 body{
@@ -86,7 +90,7 @@ html,body {padding:0; margin:0;}
 #Heading{
     text-align: center;
     margin-top: -35%;
-    padding-left: 12%;
+    padding-left: 13%;
 }
 
 #third_link_div{
